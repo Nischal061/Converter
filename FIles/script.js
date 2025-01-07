@@ -48,7 +48,7 @@ celcius.addEventListener('focus', ()=>{
 })
 
 function back(){
-    window.location.replace("/Temperature%20Converter/FIles/index.html")
+    window.location.replace("index.html")
 }
 
 
